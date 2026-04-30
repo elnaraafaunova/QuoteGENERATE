@@ -1,0 +1,7 @@
+[
+  "tests/test_history_service.py::test_filter_history_by_author_and_topic",
+  "tests/test_history_service.py::test_load_corrupted_json",
+  "tests/test_history_service.py::test_save_and_load_history",
+  "tests/test_quote_service.py::test_add_quote_validation",
+  "tests/test_quote_service.py::test_random_selection_returns_expected_quote"
+]
